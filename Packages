@@ -2,21 +2,6 @@ Package: ShadowTrackerExtra
 Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/1.7.0ShadowTrackerExtra_0.1-1_iphoneos-arm (收费版).deb
-Size: 1463924
-MD5sum: 85a1d46e586b1747ef8b21d8f9839520
-SHA1: 64b6a981d3122fa2470a12458649634521b1e474
-SHA256: c64c06323aa5481274c5665bc85b45cab5578699fcaa9c35b6eb1b1fbd1dbb04
-Section: System
-Priority: optional
-Description: 泄漏拉黑设备处理
-Author: 佚名
-Name: ShadowTrackerExtra
-
-Package: ShadowTrackerExtra
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/1.7.0ShadowTrackerExtra-1(公开版).deb
 Size: 102588
 MD5sum: f51d445984c648232d995e961d6fe329
@@ -31,27 +16,10 @@ Name: ShadowTrackerExtra
 Package: com.ezi.pubg17
 Version: 0.17.0
 Architecture: iphoneos-arm
-Maintainer: ALZAEEM
-Installed-Size: 860
-Depends: mobilesubstrate
-Filename: ./debs/1.7.0Mod Menu.deb
-Size: 500768
-MD5sum: e7cf2dcc5d0822ec3f72dd0fd67dc8a0
-SHA1: 2e0f0f5fd67c82beb275100e2d95d65499898c14
-SHA256: 44ffd77fe906171b70f2770340d3f525891fdcfea124ce548a695c2743b8ce3f
-Section: Tweaks
-Homepage: https://t.me/K_94_K
-Description: PUBG Mod Menu by Dos
-Author: ALZAEEM
-Name: MAX_HAK
-
-Package: com.ezi.pubg17
-Version: 0.17.0
-Architecture: iphoneos-arm
 Maintainer: Dos
 Installed-Size: 860
 Depends: mobilesubstrate
-Filename: ./debs/1.7.0By Dos.deb
+Filename: ./debs/By Dos.deb
 Size: 520936
 MD5sum: 185b847fddcb027f1f295c0612547743
 SHA1: a6f4825e5f0ad518bbca069dad3cbb095149414c
@@ -171,6 +139,22 @@ Description: ANTIBAN By BossAli VIP and Liberty lite
 Author: storeali-sa <3llawi416@gmail.com>
 Name: ANTIBAN By BossAli VIP
 
+Package: com.zlwl.aipojie
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 隔壁王大爷
+Installed-Size: 862
+Depends: mobilesubstrate
+Filename: ./debs/爱破解，通用破解大部分吃鸡王者辅助(2).deb
+Size: 1557854
+MD5sum: 28d1cd1823b469fcf3a53c4052c84139
+SHA1: 2066866e6be8b3c6ff156f9b252828185d5fefe9
+SHA256: ac128bb20a6e7ce459c481fcf49fcd1adb1f203b2a034b038b16d2c9e53d142f
+Section: hack
+Description: Pubg Hack
+Author: 隔壁王大爷
+Name: Hack
+
 Package: com.zlwl.pubgm
 Version: 1.0
 Architecture: iphoneos-arm
@@ -186,70 +170,4 @@ Section: hack
 Description: Pubg Hack
 Author: 隔壁王大爷
 Name: Pubg Hack
-
-Package: com.zlwl.pubgm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 隔壁王大爷
-Installed-Size: 862
-Depends: mobilesubstrate
-Filename: ./debs/1.7.0自瞄无后除草速降上色范围天线.deb
-Size: 3178332
-MD5sum: a8b107aee76655b1329c581f34f85562
-SHA1: c270a279c5c335030db1ed683c9b9507bd77f98b
-SHA256: 389999f5f7fe207b4225aed897adecedbe23fd5dc411bd20ae259e205ff350c7
-Section: hack
-Description: Pubg Hack
-Author: 隔壁王大爷
-Name: Pubg Hack
-
-Package: com.zlwl.pubgm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 隔壁王大爷
-Installed-Size: 862
-Depends: mobilesubstrate
-Filename: ./debs/1.7.0自瞄无后除草速降.deb
-Size: 12287354
-MD5sum: 3f9814a515ce52f365dc649f67f402e5
-SHA1: 76cd06867d3be980c7303dabcedacb23036d8d1c
-SHA256: fa90cffa9f8b222302936241cb53f18ec1a887de2391e1e10a8699e12ab8c4b6
-Section: hack
-Description: Pubg Hack
-Author: 隔壁王大爷
-Name: Pubg Hack
-
-Package: modp
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: zuwL
-Installed-Size: 668
-Depends: mobilesubstrate
-Filename: ./debs/1.7.0modp_2.0_iphoneos-arm.deb
-Size: 304846
-MD5sum: a6bbf0b4a4db248ea6cdfff8d5804b08
-SHA1: e7c0cc12ab9054f2de014317581696bad1168ac5
-SHA256: 8d1d0ac3a68d2f776bd4869ebb80476bfe5be38bf6d73ea141928ba2d440715a
-Section: Tweaks
-Homepage: https://t.me/zuw_L
-Description: PUBG MOBILE 0.17.0 Mod Menu by zuwL!
-Author: zuwL
-Name: PUBG MOBILE
-
-Package: modp
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: zuwL
-Installed-Size: 668
-Depends: mobilesubstrate
-Filename: ./debs/1.7.0国际服快速着落.deb
-Size: 304846
-MD5sum: a6bbf0b4a4db248ea6cdfff8d5804b08
-SHA1: e7c0cc12ab9054f2de014317581696bad1168ac5
-SHA256: 8d1d0ac3a68d2f776bd4869ebb80476bfe5be38bf6d73ea141928ba2d440715a
-Section: Tweaks
-Homepage: https://t.me/zuw_L
-Description: PUBG MOBILE 0.17.0 Mod Menu by zuwL!
-Author: zuwL
-Name: PUBG MOBILE
 

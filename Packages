@@ -1,19 +1,19 @@
 Package: ModP
-Version: 0.17.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 水哥
 Installed-Size: 380
 Depends: mobilesubstrate
-Filename: ./debs/0330gm.deb
-Size: 1303280
-MD5sum: 630777f4d9c7dd76e3e7ee0342024aba
-SHA1: 22fe186e540371cc8dd264b6cec83c493436ce6f
-SHA256: b7602ed5924e5b82c393e8d26e0dad1120aa54211bea28ff0addef28b7fa6845
+Filename: ./debs/0330破解版gm.deb
+Size: 1303270
+MD5sum: 8a9b19119b7dbd3bd8bcc6b808958307
+SHA1: 5bac2aa850dbdfea9c87fdb33a60e213b652c909
+SHA256: f0cde6e90f840b2591d2432a41c4dd5d6e72e9af945722732623e89076f88015
 Section: Tweaks
 Homepage: https://t.me/zuw_L
-Description: 国服&国际服通用
+Description: 已破解
 Author: 水哥
-Name: GM透视版
+Name: 破解版GM3月30日
 
 Package: ShadowTrackerExtra
 Version: 0.17.0
@@ -29,40 +29,6 @@ Priority: optional
 Description: 国服&台服&国际服通用
 Author: 水哥
 Name: 懒人插件公开版
-
-Package: com.ezi.pubg17
-Version: 0.17.0
-Architecture: iphoneos-arm
-Maintainer: ALZAEEM
-Installed-Size: 860
-Depends: mobilesubstrate
-Filename: ./debs/Mod Menu.deb
-Size: 500768
-MD5sum: e7cf2dcc5d0822ec3f72dd0fd67dc8a0
-SHA1: 2e0f0f5fd67c82beb275100e2d95d65499898c14
-SHA256: 44ffd77fe906171b70f2770340d3f525891fdcfea124ce548a695c2743b8ce3f
-Section: Tweaks
-Homepage: https://t.me/K_94_K
-Description: PUBG Mod Menu by Dos
-Author: ALZAEEM
-Name: MAX_HAK
-
-Package: com.ezi.pubg17
-Version: 0.17.0
-Architecture: iphoneos-arm
-Maintainer: Dos
-Installed-Size: 860
-Depends: mobilesubstrate
-Filename: ./debs/By Dos.deb
-Size: 520936
-MD5sum: 185b847fddcb027f1f295c0612547743
-SHA1: a6f4825e5f0ad518bbca069dad3cbb095149414c
-SHA256: 5fa9af1ad5b1778ca1594c80468835849700fff1794ecad3d89ee4d5b2255890
-Section: Tweaks
-Homepage: https://t.me/pubgmhacksios
-Description: PUBG Mod Menu by Dos
-Author: Dos
-Name: PubgDos
 
 Package: com.kwtap.dylib
 Version: 0.17.0
@@ -111,21 +77,4 @@ Section: hack
 Description: 国服&国际服通用
 Author: 水哥
 Name: 王爷高伤版插件
-
-Package: modp
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: zuwL
-Installed-Size: 668
-Depends: mobilesubstrate
-Filename: ./debs/modp_2.0_iphoneos-arm.deb
-Size: 304846
-MD5sum: a6bbf0b4a4db248ea6cdfff8d5804b08
-SHA1: e7c0cc12ab9054f2de014317581696bad1168ac5
-SHA256: 8d1d0ac3a68d2f776bd4869ebb80476bfe5be38bf6d73ea141928ba2d440715a
-Section: Tweaks
-Homepage: https://t.me/zuw_L
-Description: PUBG MOBILE 0.17.0 Mod Menu by zuwL!
-Author: zuwL
-Name: PUBG MOBILE
 

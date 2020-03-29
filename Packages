@@ -33,6 +33,23 @@ Name: 懒人插件公开版
 Package: com.ezi.pubg17
 Version: 0.17.0
 Architecture: iphoneos-arm
+Maintainer: ALZAEEM
+Installed-Size: 860
+Depends: mobilesubstrate
+Filename: ./debs/Mod Menu.deb
+Size: 500768
+MD5sum: e7cf2dcc5d0822ec3f72dd0fd67dc8a0
+SHA1: 2e0f0f5fd67c82beb275100e2d95d65499898c14
+SHA256: 44ffd77fe906171b70f2770340d3f525891fdcfea124ce548a695c2743b8ce3f
+Section: Tweaks
+Homepage: https://t.me/K_94_K
+Description: PUBG Mod Menu by Dos
+Author: ALZAEEM
+Name: MAX_HAK
+
+Package: com.ezi.pubg17
+Version: 0.17.0
+Architecture: iphoneos-arm
 Maintainer: Dos
 Installed-Size: 860
 Depends: mobilesubstrate

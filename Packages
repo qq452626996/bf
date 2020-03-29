@@ -1,3 +1,20 @@
+Package: ModP
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 水哥
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debs/0330破解版gm.deb
+Size: 1303270
+MD5sum: 8a9b19119b7dbd3bd8bcc6b808958307
+SHA1: 5bac2aa850dbdfea9c87fdb33a60e213b652c909
+SHA256: f0cde6e90f840b2591d2432a41c4dd5d6e72e9af945722732623e89076f88015
+Section: Tweaks
+Homepage: https://t.me/zuw_L
+Description: 已破解
+Author: 水哥
+Name: 破解版GM3月30日
+
 Package: ShadowTrackerExtra
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -161,13 +178,13 @@ Architecture: iphoneos-arm
 Maintainer: 水哥
 Installed-Size: 862
 Depends: mobilesubstrate
-Filename: ./debs/wy高伤插件.deb
-Size: 3169746
-MD5sum: 64be0a4c25454c4f79c13fa066b79148
-SHA1: b82c1d97e1b43181bdd712417e727e31453b9ad9
-SHA256: 4a84879630be83ec71233f798a7e83ddd07e5fde9f9f5553aec04dbad737f3af
+Filename: ./debs/0330高伤插件.deb
+Size: 3460594
+MD5sum: bd5f1eddf2ebff1e58c5d36d672cfc75
+SHA1: 69fa465e308519362b55f3faa20ef182de35654f
+SHA256: 01e15cd8c1e29d6f660b4efaaa494ba7eb96a9af589ceec335d6d863ef7dc3d1
 Section: hack
-Description: Pubg Hack
+Description: Pubg Hack高伤插件
 Author: 水哥
 Name: Pubg Hack高伤插件
 

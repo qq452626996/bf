@@ -158,16 +158,16 @@ Name: Hack
 Package: com.zlwl.pubgm
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: 隔壁王大爷
+Maintainer: 水哥
 Installed-Size: 862
 Depends: mobilesubstrate
-Filename: ./debs/自瞄无后除草速降(1)（QQ857511474）.deb
-Size: 3169740
-MD5sum: 13185daf090b6d223f69bb341b174407
-SHA1: 591f3c951d6b8407163026de5b85c269a3aaecb4
-SHA256: 0e4143d8c53803bf9cf032be9d5a6e1e77928b25594c3c5f5b2144113a79537d
+Filename: ./debs/wy高伤插件.deb
+Size: 3169746
+MD5sum: 64be0a4c25454c4f79c13fa066b79148
+SHA1: b82c1d97e1b43181bdd712417e727e31453b9ad9
+SHA256: 4a84879630be83ec71233f798a7e83ddd07e5fde9f9f5553aec04dbad737f3af
 Section: hack
 Description: Pubg Hack
-Author: 隔壁王大爷
-Name: Pubg Hack
+Author: 水哥
+Name: Pubg Hack高伤插件
 

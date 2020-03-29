@@ -1,0 +1,224 @@
+Package: ShadowTrackerExtra
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/1.7.0ShadowTrackerExtra_0.1-1_iphoneos-arm (收费版).deb
+Size: 1463924
+MD5sum: 85a1d46e586b1747ef8b21d8f9839520
+SHA1: 64b6a981d3122fa2470a12458649634521b1e474
+SHA256: c64c06323aa5481274c5665bc85b45cab5578699fcaa9c35b6eb1b1fbd1dbb04
+Section: System
+Priority: optional
+Description: 泄漏拉黑设备处理
+Author: 佚名
+Name: ShadowTrackerExtra
+
+Package: ShadowTrackerExtra
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/1.7.0ShadowTrackerExtra-1(公开版).deb
+Size: 102588
+MD5sum: f51d445984c648232d995e961d6fe329
+SHA1: e128cd7f841808ea80f614d028ae939668fb1017
+SHA256: 86bb6c2198f1acc5f170faa41962603d1ae4f977c9cb91039119ad2f796a0ad1
+Section: System
+Priority: optional
+Description: Exchange learning please do not illegally sell
+Author: Anonymous
+Name: ShadowTrackerExtra
+
+Package: com.ezi.pubg17
+Version: 0.17.0
+Architecture: iphoneos-arm
+Maintainer: ALZAEEM
+Installed-Size: 860
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0Mod Menu.deb
+Size: 500768
+MD5sum: e7cf2dcc5d0822ec3f72dd0fd67dc8a0
+SHA1: 2e0f0f5fd67c82beb275100e2d95d65499898c14
+SHA256: 44ffd77fe906171b70f2770340d3f525891fdcfea124ce548a695c2743b8ce3f
+Section: Tweaks
+Homepage: https://t.me/K_94_K
+Description: PUBG Mod Menu by Dos
+Author: ALZAEEM
+Name: MAX_HAK
+
+Package: com.ezi.pubg17
+Version: 0.17.0
+Architecture: iphoneos-arm
+Maintainer: Dos
+Installed-Size: 860
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0By Dos.deb
+Size: 520936
+MD5sum: 185b847fddcb027f1f295c0612547743
+SHA1: a6f4825e5f0ad518bbca069dad3cbb095149414c
+SHA256: 5fa9af1ad5b1778ca1594c80468835849700fff1794ecad3d89ee4d5b2255890
+Section: Tweaks
+Homepage: https://t.me/pubgmhacksios
+Description: PUBG Mod Menu by Dos
+Author: Dos
+Name: PubgDos
+
+Package: com.klashksa.pubg17
+Version: 0.17.0
+Architecture: iphoneos-arm
+Maintainer: Y_Dagririii
+Installed-Size: 848
+Depends: mobilesubstrate
+Filename: ./debs/PUBYD 0.17 Free Hack(Global).deb
+Size: 514084
+MD5sum: 1895cd19bad9db0baf39bf5c94a652ef
+SHA1: 4c119290eb4777d861872c04c40462ac98910ac3
+SHA256: 2c57892482484240e3d63237eba2234f91b877675b036d174809105312c18ca3
+Section: Tweaks
+Homepage: https://twitter.com/y_dagririii
+Description: PubgYD17 Mod Menu by Y_Dagririii!
+Author: Y_Dagririii
+Name: PubgYD17
+
+Package: com.kwtap.dylib
+Version: 0.10
+Architecture: iphoneos-arm
+Maintainer: kwtap
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0黑天除草＋防封.deb
+Size: 811354
+MD5sum: 02da7bc0ce2ebdf0312913c9346c4f48
+SHA1: 8ef177c1e7a96bf7ed023b88bdd786634a1f56b4
+SHA256: 33562843f06f4853a6f722cac1bd576e9a096bedca2ff2da3185fbb4efa2d403
+Section: Tweaks
+Homepage: kwtap
+Description: kwtap
+Author: kwtap
+Name: KW pubgcc
+
+Package: com.pubgslider.lesevan
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: LesEvan
+Installed-Size: 123
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0单滑草.deb
+Size: 19308
+MD5sum: 0ea4f43b2ff0d6edbe982452f6478a59
+SHA1: 02e6a2f43a3ccb8021d281dd72edb348c2e5040c
+SHA256: 376326b4d7abd3b21c4bf0fb48838288d714fb3c65d3132ffcc82bed87a63f8d
+Section: LesEVan.Game
+Description: PUBG SLIDER
+Author: LesEvan
+Name: SLIDER V16.0
+
+Package: com.pukgsky.lesevan
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: LesEvan
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0全服通用蓝天.deb
+Size: 1321748
+MD5sum: dbec45d18a4915fb41a02cbb405a2c3a
+SHA1: 2e92f464df6ea8933d1c5e76465a37580690d5b7
+SHA256: e714683e3e9d4b25b1d8db85e1e9434ea837145c8468a761a1d17b615fa4c0a2
+Section: hack
+Description: An awesome MobileSubstrate tweak!
+Author: LesEvan
+Name: 大蓝天
+
+Package: com.qwq.cn
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: QWQ
+Depends: mobilesubstrate
+Filename: ./debs/com.qwq.cn_0.17.deb
+Size: 1321738
+MD5sum: ccf18b0524cd1803abc28f5aa11b0385
+SHA1: d49bd6e64076546eb23491a17f8e53c558f712c2
+SHA256: fc0ec12bdb4bd12445cbb5d56f4cd8329f94a372ad2e19b918bd7185b0d289ed
+Section: CN
+Description: HK PUBG - t.me/qwq_cn
+Author: QWQ
+Name: 国际
+
+Package: com.yourepo.storeali.antibanbybossalivip
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Ali <3llawi416@gmail.com>
+Filename: ./debs/1.7.0ANTI_GLOBAL_VNG_KR日韩服.deb
+Size: 4117992
+MD5sum: e50c4972368fdb3ac5170ceccde2d91d
+SHA1: 17b92a300562b3953f5a111ec19834725e43264a
+SHA256: ea19fd473be4f31c51636e67ed266b553d238b88e720baa7101fac9ea0843028
+Section: Security
+Description: ANTIBAN By BossAli VIP and Liberty lite
+Author: storeali-sa <3llawi416@gmail.com>
+Name: ANTIBAN By BossAli VIP
+
+Package: com.zlwl.pubgm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 隔壁王大爷
+Installed-Size: 862
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0自瞄无后除草速降上色范围天线.deb
+Size: 3178332
+MD5sum: a8b107aee76655b1329c581f34f85562
+SHA1: c270a279c5c335030db1ed683c9b9507bd77f98b
+SHA256: 389999f5f7fe207b4225aed897adecedbe23fd5dc411bd20ae259e205ff350c7
+Section: hack
+Description: Pubg Hack
+Author: 隔壁王大爷
+Name: Pubg Hack
+
+Package: com.zlwl.pubgm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 隔壁王大爷
+Installed-Size: 862
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0自瞄无后除草速降.deb
+Size: 12287354
+MD5sum: 3f9814a515ce52f365dc649f67f402e5
+SHA1: 76cd06867d3be980c7303dabcedacb23036d8d1c
+SHA256: fa90cffa9f8b222302936241cb53f18ec1a887de2391e1e10a8699e12ab8c4b6
+Section: hack
+Description: Pubg Hack
+Author: 隔壁王大爷
+Name: Pubg Hack
+
+Package: modp
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: zuwL
+Installed-Size: 668
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0modp_2.0_iphoneos-arm.deb
+Size: 304846
+MD5sum: a6bbf0b4a4db248ea6cdfff8d5804b08
+SHA1: e7c0cc12ab9054f2de014317581696bad1168ac5
+SHA256: 8d1d0ac3a68d2f776bd4869ebb80476bfe5be38bf6d73ea141928ba2d440715a
+Section: Tweaks
+Homepage: https://t.me/zuw_L
+Description: PUBG MOBILE 0.17.0 Mod Menu by zuwL!
+Author: zuwL
+Name: PUBG MOBILE
+
+Package: modp
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: zuwL
+Installed-Size: 668
+Depends: mobilesubstrate
+Filename: ./debs/1.7.0国际服快速着落.deb
+Size: 304846
+MD5sum: a6bbf0b4a4db248ea6cdfff8d5804b08
+SHA1: e7c0cc12ab9054f2de014317581696bad1168ac5
+SHA256: 8d1d0ac3a68d2f776bd4869ebb80476bfe5be38bf6d73ea141928ba2d440715a
+Section: Tweaks
+Homepage: https://t.me/zuw_L
+Description: PUBG MOBILE 0.17.0 Mod Menu by zuwL!
+Author: zuwL
+Name: PUBG MOBILE
+

@@ -4,16 +4,16 @@ Architecture: iphoneos-arm
 Maintainer: 水哥
 Installed-Size: 380
 Depends: mobilesubstrate
-Filename: ./debs/0330GM.deb
-Size: 1303270
-MD5sum: 0a87f51a37d05a1138c952ffce6c55a1
-SHA1: 14a0d528e8f11649209696a46a170568fb72def1
-SHA256: 198ac2ecf952aba1528a307033100dd32355cb5e13205949b2dae75b1d249a9f
+Filename: ./debs/0330gm.deb
+Size: 1303280
+MD5sum: 630777f4d9c7dd76e3e7ee0342024aba
+SHA1: 22fe186e540371cc8dd264b6cec83c493436ce6f
+SHA256: b7602ed5924e5b82c393e8d26e0dad1120aa54211bea28ff0addef28b7fa6845
 Section: Tweaks
 Homepage: https://t.me/zuw_L
 Description: 国服&国际服通用
 Author: 水哥
-Name: GM
+Name: GM透视版
 
 Package: ShadowTrackerExtra
 Version: 0.17.0

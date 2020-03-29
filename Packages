@@ -142,6 +142,21 @@ Description: HK PUBG - t.me/qwq_cn
 Author: QWQ
 Name: 国际
 
+Package: com.yourcompany.pubgkgfunn
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: jay
+Depends: mobilesubstrate
+Filename: ./debs/GM国际服自瞄秒落地需要破解.deb
+Size: 1322696
+MD5sum: 1090b84bb33d0af7ffd394c02e933f59
+SHA1: 75d2445fdaa392b64d5d9caff0bb13c9ccdf63dd
+SHA256: 374cd6f1e1af064803af48f28835feeded73b019f5a640d3296d96943afc1991
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: jay
+Name: pubgkgfunn
+
 Package: com.yourepo.storeali.antibanbybossalivip
 Version: 1.0.2
 Architecture: iphoneos-arm

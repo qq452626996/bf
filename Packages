@@ -19,16 +19,16 @@ Package: ShadowTrackerExtra
 Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/1.7.0ShadowTrackerExtra-1(公开版).deb
-Size: 102588
-MD5sum: f51d445984c648232d995e961d6fe329
-SHA1: e128cd7f841808ea80f614d028ae939668fb1017
-SHA256: 86bb6c2198f1acc5f170faa41962603d1ae4f977c9cb91039119ad2f796a0ad1
+Filename: ./debs/0330懒人插件.deb
+Size: 102638
+MD5sum: 1bc24410a11487d247ad5cdc8666bf76
+SHA1: dbb8d12241ce7e80f2c731a27b16438ccc3eec53
+SHA256: 81d4926a6c75e768aee8977713e4436886b1e8cbf0a26371cb4d0a29b3cd27fa
 Section: System
 Priority: optional
 Description: Exchange learning please do not illegally sell
-Author: Anonymous
-Name: ShadowTrackerExtra
+Author: 水哥
+Name: 懒人插件（公开版）
 
 Package: com.ezi.pubg17
 Version: 0.17.0

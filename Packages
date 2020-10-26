@@ -1,3 +1,18 @@
+Package: DLG
+Version: 0.0.7B1
+Architecture: iphoneos-arm
+Maintainer: Anonymous
+Depends: mobilesubstrate
+Filename: ./debs/二批鼠免费无验证修复秒十年问题(未测试).deb
+Size: 111304
+MD5sum: f897e3499d7f30b0e8459786acd354f0
+SHA1: b91cd7be6ce180ea5bec95c5ce03e309a7bed473
+SHA256: a1da8227fca897a1a94d997a76332f48c5a7dde24d1071fa113c9ffde8f5573e
+Section: Tweaks
+Description: 完美透视，天黑，线条透视，滑条除草，修复A13设备无效果问题
+Author: 梦三大牛
+Name: 2020🐭免费无验证
+
 Package: ModP
 Version: 2.0
 Architecture: iphoneos-arm

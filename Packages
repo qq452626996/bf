@@ -1,95 +1,22 @@
-Package: DLG
-Version: 0.0.7B1
+Package: idv.aqua.gameover
+Version: 12.0.4
 Architecture: iphoneos-arm
-Maintainer: Anonymous
-Depends: mobilesubstrate
-Filename: ./debs/二批鼠免费无验证修复秒十年问题(未测试).deb
-Size: 111304
-MD5sum: f897e3499d7f30b0e8459786acd354f0
-SHA1: b91cd7be6ce180ea5bec95c5ce03e309a7bed473
-SHA256: a1da8227fca897a1a94d997a76332f48c5a7dde24d1071fa113c9ffde8f5573e
-Section: Tweaks
-Description: 完美透视，天黑，线条透视，滑条除草，修复A13设备无效果问题
-Author: 梦三大牛
-Name: 2020🐭免费无验证
-
-Package: ModP
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: 水哥
-Installed-Size: 380
-Depends: mobilesubstrate
-Filename: ./debs/0330破解版gm.deb
-Size: 1303270
-MD5sum: 8a9b19119b7dbd3bd8bcc6b808958307
-SHA1: 5bac2aa850dbdfea9c87fdb33a60e213b652c909
-SHA256: f0cde6e90f840b2591d2432a41c4dd5d6e72e9af945722732623e89076f88015
-Section: Tweaks
-Homepage: https://t.me/zuw_L
-Description: 已破解
-Author: 水哥
-Name: 破解版GM3月30日
-
-Package: ShadowTrackerExtra
-Version: 0.17.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/0330懒人插件.deb
-Size: 102628
-MD5sum: 0ee6c31b7e41a37d7081712cc600a319
-SHA1: b552c25d350726093010b4807a3c391961d930db
-SHA256: 794b4accebc080565033e9af4a4249304ff7c778d23a41e8c52517e795b73294
-Section: System
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/Pumpkin.deb
+Size: 376920
+MD5sum: c0ded94f057dde53808d77ec62a24a80
+SHA1: 24ae22d38f7562a482794107e928fca598b647ff
+SHA256: 8b56a9c91653b855857cb397b1e1d666f745fae4b0a6f7ebe410dbd8c7a56061
+Section: Utilities
 Priority: optional
-Description: 国服&台服&国际服通用
-Author: 水哥
-Name: 懒人插件公开版
-
-Package: com.kwtap.dylib
-Version: 0.17.0
-Architecture: iphoneos-arm
-Maintainer: 水哥
-Installed-Size: 348
-Depends: mobilesubstrate
-Filename: ./debs/0330黑天除草＋防封.deb
-Size: 811424
-MD5sum: d81b9996d04dba3f3387ebff2b86e058
-SHA1: fef100eafa5c3921132f8015f0fd8c1596e9ca8b
-SHA256: 929c43cd4d8b59ee63d1d34fb67275464d1d1098756357c13f9f6297f1f92a2f
-Section: Tweaks
-Homepage: kwtap
-Description: 国服&台服&国际服通用
-Author: 水哥
-Name: 黑天除草＋防封
-
-Package: com.pukgsky.lesevan
-Version: 0.17.0
-Architecture: iphoneos-arm
-Maintainer: LesEvan
-Depends: mobilesubstrate
-Filename: ./debs/0330蓝天.deb
-Size: 1321766
-MD5sum: 931cd8c940dc8312a828d3a006ad0f8b
-SHA1: e1b3d1960d3d742cd98cecb997fe5a56b357cb07
-SHA256: 572bd3853fab9d90c1f6f543dcda8addb26b96b931a8684455e91112e8b2de15
-Section: hack
-Description: 国服&台服&国际服通用
-Author: LesEvan
-Name: 蓝天
-
-Package: com.zlwl.pubgm
-Version: 0.17.0
-Architecture: iphoneos-arm
-Maintainer: 水哥
-Installed-Size: 862
-Depends: mobilesubstrate
-Filename: ./debs/0330王爷高伤插件.deb
-Size: 3460612
-MD5sum: b2d884a8ceca1bf15b16343f541ba71d
-SHA1: e169a188d77a85a087e4713a90b112d03b8260f7
-SHA256: d631c8afac31b14466749db1e7683465140e507ee2551c3cc38f1ca0075c3bc1
-Section: hack
-Description: 国服&国际服通用
-Author: 水哥
-Name: 王爷高伤版插件
+Homepage: https://igg-server.herokuapp.com/
+Description: 帅帅小分队修改版igg
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iGG伪装版
+Sponsor: Aqua Wu <igameguardian@gmail.com>
 
